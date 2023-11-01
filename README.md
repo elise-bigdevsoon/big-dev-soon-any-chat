@@ -2,7 +2,7 @@
 
 Real-time application that allows users to message each other.
 
-![Any Chat Project preview image](./project-preview.png)
+![Any Chat Project preview image](https://github.com/elise-bigdevsoon/big-dev-soon-any-chat/blob/main/project-preview.png?raw=true)
 
 ## Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
